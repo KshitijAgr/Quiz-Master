@@ -1,0 +1,74 @@
+.main{ 	
+	width:800px;
+	height:600px; 
+	border:1px solid black;
+	margin:0px 0px 0px 250px;
+	background-color:#3fb58e;
+	font-size:20px;
+	color:#ffffff;
+	border-radius:10px;
+}
+#name{ 
+	margin:50px 0px 25px 85px;
+	width:600px;
+	height:30px;
+	font-size:20px;
+	padding:10px 20px 10px 20px;   
+	background-color:#ffffff;
+	color:#3fb58e;
+	border-radius:10px;
+}#age{ 
+	margin:0px 0px 25px 85px;
+	width:600px;
+	height:30px; 
+	font-size:20px;
+	padding:10px 20px 10px 20px;   
+	background-color:#ffffff;
+	color:#3fb58e;
+	border-radius:10px;
+}
+#gender{
+	margin:25px 25px 25px 85px;
+}
+#male{
+	margin:25px 5px 25px 35px;	
+}
+#female{
+	margin:25px 5px 25px 35px;
+}
+#username{
+	margin:25px 0px 25px 85px;
+	width:600px;
+	height:30px; 
+	font-size:20px;
+	padding:10px 20px 10px 20px;   
+	background-color:#ffffff;
+	color:#3fb58e;
+	border-radius:10px;
+}
+#password{
+	margin:0px 0px 25px 85px;
+	width:600px;
+	height:30px; 
+	font-size:20px;
+	border-radius:10px; 
+	padding:10px 20px 10px 20px;   
+	background-color:#ffffff;
+	color:#3fb58e;	 
+}
+#back{
+    margin:15px 0px 40px 150px;
+	padding:5px 30px 5px 30px;
+	border-radius:10px;  
+	color:#3fb58e;
+	font-size:20px;
+	float:left;  
+}
+#submit{
+    margin:15px 150px 40px 0px;
+	padding:5px 30px 5px 30px;
+	border-radius:10px;  
+	color:#3fb58e;
+	font-size:20px;
+	float:right; 
+}

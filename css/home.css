@@ -1,0 +1,55 @@
+a{
+		text-decoration:none; 
+	}
+
+.main{ 																						/*top right bottom left*/	
+	width:800px;
+	height:600px; 
+	border:1px solid black;
+	margin:0px 0px 0px 250px;
+	background-color:#3fb58e;
+	font-size:20px;
+	color:#ffffff;
+	border-radius:10px;
+}
+#profile{/*200*/
+	float:right; 
+	padding:40px 0px 0px 140px; 
+	width:60px;
+	height:80px; 
+}
+#head{/*600*/
+	float:left;   
+	font-size:30px; 
+	padding:15px 0px 0px 45px;  
+	width:555px;
+	height:105px;
+}
+#rules{/*800*/
+	float:left;
+	width:790px; 
+	height:200px;
+ 	padding:0px 0px 0px 10px; 
+}
+#section{/*500*/
+	float:left; 
+	width:480px;
+	height:280px;
+	padding:0px 0px 0px 20px;
+}
+#start/*300*/
+{
+	float: right;
+	width:290px;
+	height:150px;
+	padding:100px 0px 0px 10px;
+}
+.button
+{	
+	width:120px;
+	height:40px;  
+	border-radius:10px;  
+	color:#3fb58e;
+	font-size:20px;
+	margin:5px 5px 5px 5px;  
+}
